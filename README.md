@@ -1,4 +1,4 @@
-# pendulum
+# Pendulum wave simulator
 
 After watching this billiard pendulum wave [video](https://youtu.be/JsIgubUjTck) I decided to try to implement a simulation - and I did so with nannou (and rust).
 
